@@ -1,0 +1,553 @@
+body{
+    background-image: url(img/background.png);
+    background-size:120%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+div.first{
+    text-align: center;
+    transition: all 0.3s ease;
+}
+.first:hover {
+    transform: scale(1.2);
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid black ;
+    border-radius: 10px;
+    transition: transform 0.3s ease ;
+    cursor: pointer; 
+}
+ .logo:hover {
+    transform: scale(1.2);
+ }
+ .button1{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button1:hover{
+    transform: scale(1.2);
+ }
+ .bb{
+    text-decoration: none;
+ }
+ .button2{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button2:hover{
+    transform: scale(1.2);
+ }
+ .bbb{
+    text-decoration: none;
+ }
+ .button3{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button3:hover{
+    transform: scale(1.2);
+ }
+ .bbbb{
+    text-decoration: none;
+ }
+
+ .button4{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button4:hover{
+    transform: scale(1.2);
+ }
+ .cc{
+    text-decoration: none;
+ }
+ 
+ .button5{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button5:hover{
+    transform: scale(1.2);
+ }
+  .ccc{
+    text-decoration: none;
+ }
+ .button6{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button6:hover{
+    transform: scale(1.2);
+ }
+ .cccc{
+    text-decoration: none;
+ }
+ 
+ .button7{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button7:hover{
+    transform: scale(1.2);
+ }
+ .ccccc{
+    text-decoration: none;
+ }
+ .button8{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button8:hover{
+    transform: scale(1.2);
+ }
+ .cccccc{
+    text-decoration: none;
+ }
+  .button9{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button9:hover{
+    transform: scale(1.2);
+ }
+ .ccccccc{
+    text-decoration: none;
+ }
+  .button10{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button10:hover{
+    transform: scale(1.2);
+ }
+ .d{
+    text-decoration: none;
+ }
+ .button11{
+    border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ 
+ .button11:hover{
+    transform: scale(1.2);
+ }
+ .z{
+    text-decoration: none;
+ }
+ .table1 {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 40%;
+ }
+ th , td {
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 18px;
+    color:rgb(0, 0, 0);
+ }
+ th {
+    background-color: #f2f2f2;
+ }
+ .table2 {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 40%;
+ }
+ .table3 {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 40%;
+ }
+ .table4{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 40%;
+ } 
+ .table5{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+  .table6{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+.table7{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .button20{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button20:hover{
+   transform: scale(1.2);
+ }
+ .y{
+   text-decoration: none;
+ }
+ .button21{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button21:hover{
+   transform: scale(1.2);
+ }
+ .bb22{
+   text-decoration: none;
+ }
+ .table9{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .button24{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button24:hover{
+   transform: scale(1.2);
+ }
+ .d1111{
+   text-decoration: none;
+ 
+ }
+ .button22{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button22:hover{
+   transform: scale(1.2);
+ }
+ .bb33{
+   text-decoration: none;
+ 
+ }
+ .button23{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button23:hover{
+   transform: scale(1.2);
+ }
+ .cc44{
+   text-decoration: none;
+ 
+ }
+ .button24{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button24:hover{
+   transform: scale(1.2);
+ }
+ .d1111{
+   text-decoration: none;
+ 
+ }
+ .button25{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button25:hover{
+   transform: scale(1.2);
+ }
+ .z22222{
+   text-decoration: none;
+ 
+ }
+ .button26{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button26:hover{
+   transform: scale(1.2);
+ }
+ .rr{
+   text-decoration: none;
+ }
+ .table10{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .button28{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button28:hover{
+   transform: scale(1.2);
+ }
+ .d{
+   text-decoration: none;
+ }
+ .table11{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .table12{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .table13{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .button29{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button29:hover{
+   transform: scale(1.2);
+ }
+ .ddd{
+   text-decoration: none;
+ }
+ .table14{
+   width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 45%;
+ }
+ .button30{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button30:hover{
+   transform: scale(1.2);
+ }
+ .dddd{
+   text-decoration: none;
+ }
+ .button31{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button31:hover{
+   transform: scale(1.2);
+ }
+ .dddddd{
+   text-decoration: none;
+ }
+ .button35{
+   border: 4px solid black;
+    border-radius: 10px;
+    padding: 20px 40px;
+    transition: transform 0.3s ease;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    margin-top: 5px;
+    text-decoration: none;
+ }
+ .button35:hover{
+   transform: scale(1.2);
+ }
+ .ddddd{
+   text-decoration: none;
+ }
