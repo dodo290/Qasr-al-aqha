@@ -3,6 +3,7 @@ body{
     background-size:120%;
     background-repeat: no-repeat;
     background-position: center;
+        background-size: cover;
 }
 div.first{
     text-align: center;
