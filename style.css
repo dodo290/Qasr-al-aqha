@@ -4,6 +4,7 @@ body{
     background-repeat: no-repeat;
     background-position: center;
         background-size: cover;
+    display: block ;
 }
 div.first{
     text-align: center;
